@@ -28,7 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
-    'testserver',  # Adicione isso para permitir o Client do Django
+    'testserver',
+    'api-2vho.onrender.com',
 ]
 
 
